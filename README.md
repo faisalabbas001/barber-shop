@@ -1,5 +1,12 @@
 # Noir & Blade — Premium Barbershop Landing Page
 
+
+this is live url of the  barber-shop
+
+https://barber-shop-orpin-sigma.vercel.app/
+
+
+
 Built with Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS v4,
 Framer Motion and Lucide icons.
 
